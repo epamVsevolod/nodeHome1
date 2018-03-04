@@ -1,0 +1,10 @@
+{
+	"mongoose": {
+		"uri": "mongodb://localhost/blackJack",
+		"options": {
+			"keepAlive": 120,
+			"autoReconnect": true,
+			"reconnectTries": "Number.MAX_VALUE"
+		}
+	}
+}

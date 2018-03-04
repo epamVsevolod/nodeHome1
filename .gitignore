@@ -1,0 +1,16 @@
+
+# IntelliJ IDEA files #
+/.idea/
+*.iml
+
+# Back-end files #
+
+# Front-end files #
+/node_modules/
+/public/
+.env
+
+# Other files #
+*.log
+*.log.*
+DS_store
